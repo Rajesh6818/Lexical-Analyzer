@@ -21,6 +21,7 @@ A console-based Lexical Analyzer application developed using C programming langu
 * Modular Programming
 
 ## How to Run
+./a.out test.c
 
 Y.Rajesh
 
