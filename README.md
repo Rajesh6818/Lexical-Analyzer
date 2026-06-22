@@ -23,5 +23,6 @@ A console-based Lexical Analyzer application developed using C programming langu
 ## How to Run
 ./a.out test.c
 
+## Author
 Y.Rajesh
 
