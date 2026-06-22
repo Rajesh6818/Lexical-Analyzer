@@ -1,28 +1,25 @@
 Lexical Analyzer in C
 
-A console-based Lexical Analyzer developed using C programming language to analyze source code and identify different types of tokens used in a program.
+A console-based Lexical Analyzer application developed using C programming language to scan source code and identify different types of tokens.
 
 Features
-
 Identify Keywords
-Detect Identifiers
+Identify Identifiers
 Recognize Operators
 Recognize Special Symbols
-Detect Numeric Constants
+Detect Constants and Literals
 Token Classification
-Basic Lexical Error Detection
+Lexical Error Detection
 
 Technologies Used
-
 C Language
 File Handling
-String Handling Functions
+String Handling
 Standard C Libraries
 
 How to Run
-
 Compile: gcc *.c
 Run: ./a.out
 
 Author
-Y. Rajesh
+Y.Rajesh
